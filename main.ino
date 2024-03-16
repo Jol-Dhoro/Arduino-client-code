@@ -1,6 +1,6 @@
 //The Sum of It All (Ed Sheeran docu name)
 #include <Wire.h>
-#include <DHT.h>;
+#include <DHT.h>
 int relay = 12; // Plug the relay into Digital Pin 13
 float calibration_value = 21.34 - 0.7;
 int phval = 0;

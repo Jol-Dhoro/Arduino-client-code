@@ -73,3 +73,5 @@ void loop() {
     digitalWrite(relay, LOW); // Turn the relay Off
   }
 }
+
+// vim:ft=cpp
